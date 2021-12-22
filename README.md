@@ -1,2 +1,4 @@
-# stock-gestionary
-Gestion simplifiée d'un stock: implémentation d’un besoin client (SAÉ 1.01 - première année BUT informatique)
+# Présentation du projet
+
+Ce projet a été réalisé pour la première année de BUT Informatique. Il correspond à la SAE 1.01 "Implémentation d’un besoin
+client", le sujet complet est disponible dans les documents.
